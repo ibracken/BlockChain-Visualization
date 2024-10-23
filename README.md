@@ -1,6 +1,6 @@
-# Simple Blockchain in Go
+# Blockchain Visualization in Go
 
-This project is a simple implementation of a blockchain in Go. It demonstrates the core concepts of blockchain, including block creation, proof of work, and chain management, with an easy-to-use command line interface (CLI).
+This project is an implementation of a blockchain in Go. It demonstrates the core concepts of blockchain, including block creation, proof of work, and chain management, with an easy-to-use command line interface (CLI).
 
 ## Features
 
